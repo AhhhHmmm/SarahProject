@@ -23,7 +23,7 @@
 23. I worry a lot that the people I love will find someone else they prefer and leave me.
 24. The people close to me have been very unpredictable: one moment they're available and nice to me; the next, they're angry, upset, self-absorbed, fighting, etc.
 25. I need other people so much that I worry about losing them.
-26. I can't be myself or express what I really feel, or people will leave me. *ab
+26. I can't be myself or express what I really feel, or people will leave me. 
 27. I feel that people will take advantage of me.
 28. I often feel that I have to protect myself from other people.
 29. I feel that I cannot let my guard down in the presence of other people, or else they will intentionally hurt me.
@@ -50,7 +50,7 @@
 50. No one really understands me.
 51. My family was always different from the families around us.
 52. I sometimes feel as if I'm an alien.
-53. If I disappeared tomorrow, no one would notice. *si
+53. If I disappeared tomorrow, no one would notice. 
 54. No man/woman I desire could love me once he/she saw my defects.
 55. No one I desire would want to stay close to me if he/she knew the real me.
 56. I am inherently flawed and defective.
@@ -65,7 +65,7 @@
 65. It is my fault that my parent(s) could not love me enough.
 66. I don't let people know the real me.
 67. One of my greatest fears is that my defects will be exposed.
-68. I cannot understand how anyone could love me. *ds
+68. I cannot understand how anyone could love me. 
 69. Almost nothing I do at work (or school) is as good as other people can do.
 70. I'm incompetent when it comes to achievement.
 71. Most other people are more capable than I am in areas of work (or school) and achievement.
@@ -74,11 +74,11 @@
 74. I'm not as intelligent as most people when it comes to work (or school).
 75. I am humiliated by my failures and inadequacies in the work (or school) sphere.
 76. I often feel embarrassed around other people, because I don't measure up to them in terms of my accomplishments.
-77. I often compare my accomplishments with others and feel that they are much more successful.  *fa
+77. I often compare my accomplishments with others and feel that they are much more successful. 
 78. I do not feel capable of getting by on my own in everyday life.
 79. I need other people to help me get by.
 80. I do not feel I can cope well by myself.
-81. I believe that other people can take of me better than I can take care of myself.
+81. I believe that other people can take care of me better than I can take care of myself.
 82. I have trouble tackling new tasks outside of work, unless I have someone to guide me.
 83. I think of myself as a dependent person when it comes to everyday functioning.
 84. I screw up everything I try, even outside of work (or school).
@@ -101,8 +101,8 @@
 101. I often feel that I might go crazy.
 102. I often feel that I'm going to have an anxiety attack.
 103. I often worry that I might have a heart attack or cancer, even though there is little medical reason to be concerned.
-104. I feel that the world is a dangerous place. *vu
-105.I have not been able to separate myself from my parent(s), the way other people my age seem to.
+104. I feel that the world is a dangerous place. 
+105. I have not been able to separate myself from my parent(s), the way other people my age seem to.
 106. My parent(s) and I tend to be overinvolved in each other's lives and problems.
 107. It is very difficult for my parent(s) and me to keep intimate details from each other, without feeling betrayed or guilty.
 108. My parent(s) and I have to speak to each other almost every day, or else one of us feels guilty, hurt, disappointed, or alone.
@@ -112,17 +112,17 @@
 112. I am so involved with my partner or parent(s) that I do not really know who I am or what I want.
 113. I have trouble separating my point of view or opinion from that of my parent(s) or partner.
 114. I often feel that I have no privacy when it comes to my parent(s) or partner.
-115. I feel that my parent(s) are, or would be, very hurt about my living on my own, away from them. *eu
+115. I feel that my parent(s) are, or would be, very hurt about my living on my own, away from them.
 116. I let other people have their way, because I fear the consequences.
 117. I believe that if I do what I want, I'm only asking for trouble.
-118. I feel that I have no choice but to give in to other people wishes, or else they will retaliate or reject me in some way.
+118. I feel that I have no choice but to give in to other people's wishes, or else they will retaliate or reject me in some way.
 119. In relationships, I let the other person have the upper hand.
 120. I've always let others make choices for me, so I really don't know what I want for myself.
 121. I feel the major decisions in my life were not really my own.
 122. I worry a lot about pleasing other people, so they won't reject me.
 123. I have a lot of trouble demanding that my rights be respected and that my feelings be taken into account.
 124. I get back at people in little ways instead of showing my anger directly.
-125. I will go to much greater lengths than most people to avoid confrontations. *sb
+125. I will go to much greater lengths than most people to avoid confrontations.
 126. I put others' needs before my own, or else I feel guilty.
 127. I feel guilty when I let other people down or disappoint them.
 128. I give more to other people than I get back in return.
@@ -139,7 +139,7 @@
 139. Other people see me as doing too much for others and not enough for myself.
 140. No matter how much I give, I feel it is never enough.
 141. If I do what I want, I feel very uncomfortable.
-142. It's very difficult for me to ask others to take care of my needs. *ss
+142. It's very difficult for me to ask others to take care of my needs.
 143. I worry about losing control of my actions.
 144. I worry that I might seriously harm someone physically or emotionally, if my anger gets out of control.
 145. I feel that I must control my emotions and impulses, or something bad is likely to happen.
@@ -148,7 +148,7 @@
 148. I find it embarrassing to express my feelings to others.
 149. I find it hard to be warm and spontaneous.
 150. I control myself so much that people think I am unemotional.
-151. People see me as uptight emotionally. *ei
+151. People see me as uptight emotionally.
 152. I must be the best at most of what I do; I can't accept second best.
 153. I strive to keep almost everything in perfect order.
 154. I must look my best most of the time.
@@ -164,7 +164,7 @@
 164. I can't let myself off the hook easily or make excuses for my mistakes.
 165. I'm a very competitive person.
 166. I put a good deal of emphasis on money or status.
-167. I always have to be Number One, in terms of my performance. *us
+167. I always have to be Number One, in terms of my performance. 
 168. I have a lot of trouble accepting "no" for an answer when I want something from other people.
 169. I often get angry or irritable if I can't get what I want.
 170. I'm special and shouldn't have to accept many of the restrictions placed on other people.
@@ -175,7 +175,7 @@
 175. I often find that I am so involved in my own priorities that I don't have time to give to friends or family.
 176. People often tell me I am very controlling about the ways things are done.
 177. I get very irritated when people won't do what I ask of them.
-178. I can't tolerate other people telling me what to do. *et
+178. I can't tolerate other people telling me what to do.
 179. I have great difficulty getting myself to stop drinking, smoking, overeating, or other problem behaviors.
 180. I can't seem to discipline myself to complete routine or boring tasks.
 181. Often I allow myself to carry through on impulses and express emotions that get me into trouble or hurt other people.
@@ -190,35 +190,35 @@
 190. I lose my temper at the slightest offense.
 191. I have rarely been able to stick to my resolutions.
 192. I can almost never hold back from showing people how I really feel, no matter what the cost may be.
-193. I often do things impulsively that I later regret. *is
+193. I often do things impulsively that I later regret.
 194. It is important to me to be liked by almost everyone I know.
-195. I change myself depending on the people , so they like me more.
+195. I change myself depending on the people, so they like me more.
 196. I try hard to fit in.
 197. My self-esteem is based mostly on how other people view me.
 198. Having money and knowing important people make me feel worthwhile.
 199. I spend a lot of time on my physical appearance so people will value me.
 200. Accomplishments are most valuable to me if other people notice them.
-201.
+201. I am so focused on fitting in that sometimes I don't know who I am. 
 202. I find it hard to set my own goals, without taking into account how others will respond to my choices.
-203. When I look at my life decisions, I see that I made most of approval in mind.
-204. him or her to like me.
+203. When I look at my life decisions, I see that I made most of them with other people's approval in mind.
+204. Even if I don't like someone, I still want him or her to like me.
 205. Unless I get a lot of attention from others, I feel less important.
 206. If I make remarks at a meeting or am introduced at a gathering, I look forward to recognition and admiration.
-207. Lots of praise and compliments make me feel like a worthwhile person. *as
+207. Lots of praise and compliments make me feel like a worthwhile person. 
 208. Even when things seem to be going well, I feel that it is only temporary.
 209. If something good happens, I worry that something bad is likely to follow.
-210. ; something will almost always go wrong.
+210. You can't be too careful; something will almost always go wrong.
 211. No matter how hard I work, I worry that I could be wiped out financially.
 212. I worry that a wrong decision could lead to disaster.
 213. I often obsess over minor decisions, because the consequences of making a mistake seem so serious.
-214. I feel better assuming that things will not if things go wrong.
+214. I feel better assuming that things will not work out for me, so that I don't feel disappointed if things go wrong.
 215. I focus more on the negative aspects of life and of events than on the positive.
 216. I tend to be pessimistic.
 217. People close to me consider me a worrier.
-218. If people get too enthusiastic about something, I become uncomfortable and feel like warning them of what could go wrong. *np
+218. If people get too enthusiastic about something, I become uncomfortable and feel like warning them of what could go wrong.
 219. If I make a mistake, I deserve to be punished.
 220. If I don't try my hardest, I should expect to lose out.
-221. There is no excuse if I make mistake.
+221. There is no excuse if I make a mistake.
 222. People who don't pull their own weight should get punished in some way.
 223. Most of the time, I don't accept the excuses other people make. They're just not willing to accept responsibility and pay the consequences.
 224. If I don't do the job, I should suffer the consequences.
@@ -229,4 +229,4 @@
 229. I get angry when people make excuses for themselves, or blame other people for their problems.
 230. It doesn't matter why I make a mistake; when I do something wrong, I should pay the price.
 231. I "beat up" on myself a lot for things I screw up.
-232. I'm a bad person who deserves to be puncished.
+232. I'm a bad person who deserves to be punished.
