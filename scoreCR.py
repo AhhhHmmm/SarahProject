@@ -19,3 +19,20 @@ answers = getAnswers('CR.csv')
 # the result for all categories instead of just printing out the answers?
 
 print(answers)
+
+
+# Emotional Deprivation 1-9
+# Abandonment 10-26
+# Mistrust/Abuse 27-43
+# Social Isolation 44-53
+# Defectiveness 54-68
+# Failure 69-77
+# Dependence 78-92
+# Vulnerablity 93-104
+# Enmeshment 105-115
+# Subjugation 116-125
+# Self-Sacrifice 126-142
+# Emotional INhibition 143-151
+# Unrelenting Standards 152-167
+# Entitlement 168-178
+# Insufficient Self-Control 179-193
